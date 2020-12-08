@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Photo Gallery BPA Practice", "Photo Gallery BPA Practice\Photo Gallery BPA Practice.csproj", "{9B91C3AB-883E-4959-85E7-9A2D9D95E890}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B91C3AB-883E-4959-85E7-9A2D9D95E890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B91C3AB-883E-4959-85E7-9A2D9D95E890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B91C3AB-883E-4959-85E7-9A2D9D95E890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B91C3AB-883E-4959-85E7-9A2D9D95E890}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7CD1140-27D4-432B-8BF2-473C29C25B50}
+	EndGlobalSection
+EndGlobal
