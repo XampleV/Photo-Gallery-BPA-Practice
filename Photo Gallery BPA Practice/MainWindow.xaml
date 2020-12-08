@@ -6,7 +6,8 @@
         xmlns:local="clr-namespace:Photo_Gallery_BPA_Practice"
         mc:Ignorable="d"
         Title="MainWindow" Height="680" Width="640"
-        WindowStartupLocation="CenterScreen">
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="0.7*"/>
